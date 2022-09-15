@@ -2,7 +2,9 @@
 /shelf/
 /.idea/workspace.xml
 /out
+/api/target
+/db/target
+/service/target
 /target
-*.xml
 *.idea
 *.iml
